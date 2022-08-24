@@ -1142,7 +1142,34 @@
             <collectionProp name="Arguments.arguments">
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                <stringProp name="Argument.value">{&quot;routeId&quot;:&quot;${complexdata}&quot;,&quot;taskName&quot;:&quot;upload_test_line-${__RandomString(5,1234567890,)}&quot;,&quot;coveringArea&quot;:&quot;&quot;,&quot;executor&quot;:0,&quot;taskType&quot;:0,&quot;subId&quot;:&quot;HY-6F-2&quot;,&quot;comments&quot;:&quot;&quot;,&quot;taskDes&quot;:&quot;&quot;,&quot;airportId&quot;:&quot;nest02&quot;,&quot;relation_obj&quot;:&quot;&quot;,&quot;taskMode&quot;:0,&quot;flyModeVal&quot;:2,&quot;flyMode&quot;:&quot;&quot;,&quot;returnMode&quot;:&quot;&quot;,&quot;flySpeed&quot;:null,&quot;initSpeed&quot;:8,&quot;workSpeed&quot;:&quot;&quot;,&quot;routeName&quot;:&quot;upload_test_line&quot;,&quot;totalPoint&quot;:5,&quot;totalSecond&quot;:165,&quot;totalDist&quot;:107,&quot;totalShootPoint&quot;:3,&quot;offsetDistance&quot;:0,&quot;aerialDirection&quot;:1,&quot;routeMissionType&quot;:0,&quot;cameraMode&quot;:1,&quot;returnAlt&quot;:44}</stringProp>
+                <stringProp name="Argument.value">{&quot;routeId&quot;:&quot;${complexdata}&quot;,&#xd;
+&quot;taskName&quot;:&quot;upload_test_line-${__RandomString(5,1234567890,)}&quot;,&#xd;
+&quot;coveringArea&quot;:&quot;&quot;,&#xd;
+&quot;executor&quot;:0,&#xd;
+&quot;taskType&quot;:0,&#xd;
+&quot;subId&quot;:&quot;HY-6F-2&quot;,&#xd;
+&quot;comments&quot;:&quot;&quot;,&#xd;
+&quot;taskDes&quot;:&quot;&quot;,&#xd;
+&quot;airportId&quot;:&quot;nest02&quot;,&#xd;
+&quot;relation_obj&quot;:&quot;&quot;,&#xd;
+&quot;taskMode&quot;:0,&#xd;
+&quot;flyModeVal&quot;:2,&#xd;
+&quot;flyMode&quot;:&quot;&quot;,&#xd;
+&quot;returnMode&quot;:&quot;&quot;,&#xd;
+&quot;flySpeed&quot;:null,&#xd;
+&quot;initSpeed&quot;:8,&#xd;
+&quot;workSpeed&quot;:&quot;&quot;,&#xd;
+&quot;routeName&quot;:&quot;upload_test_line&quot;,&#xd;
+&quot;totalPoint&quot;:5,&#xd;
+&quot;totalSecond&quot;:165,&#xd;
+&quot;totalDist&quot;:107,&#xd;
+&quot;totalShootPoint&quot;:3,&#xd;
+&quot;offsetDistance&quot;:0,&#xd;
+&quot;aerialDirection&quot;:1,&#xd;
+&quot;routeMissionType&quot;:0,&#xd;
+&quot;cameraMode&quot;:1,&#xd;
+&quot;returnAlt&quot;:44&#xd;
+}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
             </collectionProp>
